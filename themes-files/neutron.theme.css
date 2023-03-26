@@ -31,7 +31,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor2: #5B86E5; /* Theme's color 2 */
 
   /* CUSTOM FONT */
-  --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
+  --customFont: 'Comic sans MS', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
 
   /* HOME BUTTON */
   --homeImage: url('https://imgur.com/eItxuAq.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
